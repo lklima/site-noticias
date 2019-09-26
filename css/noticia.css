@@ -1,0 +1,24 @@
+figure{
+  background: #ddd;
+  font-size: 14px;
+  margin-bottom: 35px;
+}
+
+.header_n{
+  margin-bottom: 25px;
+}
+
+.header_n span{
+  color: gray;
+  font-size: 14px;
+  margin-top: 12px;
+  display: block;
+}
+
+article p{
+margin-top: 12px;
+font-size: 18px;
+}
+
+.fb-comments{
+}
